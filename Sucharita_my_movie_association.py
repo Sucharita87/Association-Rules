@@ -127,27 +127,3 @@ ma_X3 = ma_X3.apply(sorted)
 rules_sets3 = list(ma_X3)
 unique3 = [list(m) for m in set(tuple(i) for i in rules_sets3)] # 1 rule, so need for redundancy
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
